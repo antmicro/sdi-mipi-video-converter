@@ -1,0 +1,9 @@
+[submodule "linux"]
+	path = linux
+	url = ../sdi-mipi-bridge-linux.git
+[submodule "fpga-design"]
+	path = fpga-design
+	url = ../sdi-mipi-video-converter-fpga-design
+[submodule "hw"]
+	path = hw
+	url = ../sdi-mipi-video-converter-hw
